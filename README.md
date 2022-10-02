@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <h1> Pern-Todo-App </h1>
 
   <p>Simple Todo application to list all your needs.</p>
